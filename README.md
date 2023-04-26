@@ -1,7 +1,138 @@
-### Olá! Eu sou o Yan Oliveira👋
 
-- 🌱 Atualmente estou estudando Engenharia da Computação.
-- 💻 Contate-me no email: yan.o.s.martins@gmail.com
+
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=110&section=header"/>
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Yan+Oliveira;I'm+20+years+old;Be+Welcome!+)](https://git.io/typing-svg)
+
+<div style="display: inline_block"></div><br>
+ <div></div> 
+
+<!-- 👤  Yan Oliveira, 20 anos, carioca. -->
+
+🖥️ Development Student - Fullstack
+
+🚀 Currently working at NTL as Apprentice Fullstack Developer
+
+👨🏼‍🎓   Graduating in Computer Engineering.  
+
+
+🪐 My summaries:
+
+ <div>
+  <a href="https://github.com/yanosmartins">
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YanOliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" aligh="right" style=border_radius="20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanosmartins&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+ 
+##
+
+ 
+ ### Languages ​​and Tools
+ 
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Amaral-VsCode" height="30" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Amaral-Javascript" height="31" width="31" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png">
+  <img align="center" alt="Amaral-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Amaral-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <!--<img height="160" width="160" align="right" alt="Yan's-gif" src="https://photos.google.com/search/_m8_Favoritas/photo/AF1QipNQ67cJ2iWdVT2tCQ-en93SCbH8r1IiFSDS-VQr">-->
+</div>
+  <!--
+  
+  <img align="center" alt="Amaral-MySQL" height="30" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="Amaral-MySQL" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
+  <img align="center" alt="Amaral-MySQL" height="30" width="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
+  <img align="center" alt="Amaral-MySQL" height="40" width="40" src="https://img.icons8.com/color/512/wordpress.png">
+-->
+  
+
+  ##
+  
+ ### 🔗 Connect with me
+ 
+ <div style="display: inline_block"></div><br>
+ <div></div>   
+  <a href="https://www.instagram.com/yanfleurins/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<!--<a href="https://discord.com/channels/@me/971593706455064586" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>-->
+  <a href="https://www.linkedin.com/in/yan-oliveira-9b7b271aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+   <a href="https://api.whatsapp.com/send?phone=5521969268840" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+   </a>
+   </a>
+  </div>
+ 
+   ![Snake animation](https://github.com/yanosmartins/yanosmartins/blob/output/github-contribution-grid-snake.svg)
+ </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -23,6 +154,89 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
