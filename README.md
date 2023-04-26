@@ -3,43 +3,56 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=110&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D8572B&height=110&section=header"/>
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Yan+Oliveira;I'm+20+years+old;Be+Welcome!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF652F&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Yan+Oliveira;I'm+20+years+old;Be+Welcome!+)](https://git.io/typing-svg)
 
 <div style="display: inline_block"></div><br>
  <div></div> 
 
 <!-- 👤  Yan Oliveira, 20 anos, carioca. -->
 
-🖥️ Development Student - Fullstack
+🖥️ Development Student - Fullstack.
 
-🚀 Currently working at NTL as Apprentice Fullstack Developer
+👨 Graduating in Computer Engineering.  
 
-👨🏼‍🎓   Graduating in Computer Engineering.  
+🚀 Currently working at NTL as a Fullstack-Developer Apprentice.
 
+🧑‍🏫 Engish Teacher
 
-🪐 My summaries:
+<br>
+<h3>🪐 My summaries:</h3>
 
  <div>
   <a href="https://github.com/yanosmartins">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YanOliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" aligh="right" style=border_radius="20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanosmartins&layout=compact&langs_count=7&theme=tokyonight"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YanOliveira&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="160em" aligh="right" style=border_radius="20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanosmartins&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
  
+          
 ##
 
  
  ### Languages ​​and Tools
  
   <div style="display: inline_block"><br>
-  <img align="center" alt="Amaral-VsCode" height="30" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Amaral-Javascript" height="31" width="31" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png">
-  <img align="center" alt="Amaral-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Amaral-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!--<img height="160" width="160" align="right" alt="Yan's-gif" src="https://photos.google.com/search/_m8_Favoritas/photo/AF1QipNQ67cJ2iWdVT2tCQ-en93SCbH8r1IiFSDS-VQr">-->
+  <img align="center" alt="Yan-VsCode" name ="Yan-VsCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Yan-Javascript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Yan-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Yan-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Yan-C#" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Yan-C++" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">  
+  <img align="center" alt="Yan-SQL" height="50" width="50" src="https://i.imgur.com/lW0lILU.png">
+  <img align="center" alt="Yan-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Yan-Gcode" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/3270/3270576.png"> <!-- verificar tamanho-->
+        
+  
+
+          
+   
+   <!--<img height="160" width="160" align="right" alt="Yan's-gif" src="https://photos.google.com/search/_m8_Favoritas/photo/AF1QipNQ67cJ2iWdVT2tCQ-en93SCbH8r1IiFSDS-VQr">-->
 </div>
   <!--
   
@@ -68,7 +81,7 @@
    ![Snake animation](https://github.com/yanosmartins/yanosmartins/blob/output/github-contribution-grid-snake.svg)
  </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D8572B&height=100&section=footer"/>
 
 
 
