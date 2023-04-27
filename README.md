@@ -49,7 +49,7 @@
   <img align="center" alt="Yan-Gcode" Title="G Code" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/3270/3270576.png"> <!-- verificar tamanho-->
         
 
-  <img  align="right" alt="Yan's-gif" src="https://media.tenor.com/AHC4lmvMo9gAAAAd/studio-ghibli-frog-in-the-road.gif">
+  <img  align="right" alt="Yan's-gif" width="300" height="250" src="https://media.tenor.com/AHC4lmvMo9gAAAAd/studio-ghibli-frog-in-the-road.gif">
 </div>
 
 
