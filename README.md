@@ -46,7 +46,7 @@
   <img align="center" alt="Yan-C++" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">  
   <img align="center" alt="Yan-SQL" height="50" width="50" src="https://i.imgur.com/lW0lILU.png">
   <img align="center" alt="Yan-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Yan-Gcode" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/3270/3270576.png"> <!-- verificar tamanho-->
+  <img align="center" alt="Yan-Gcode" Title="Código G" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/3270/3270576.png"> <!-- verificar tamanho-->
         
 
   <img  align="right" alt="Yan's-gif" src="https://media3.giphy.com/media/pi1HV6hj5Cffy/giphy.gif?cid=ecf05e47ke6mcrt94fyb1ny8rosk57xzer16s61zdhkqru2v&ep=v1_gifs_search&rid=giphy.gif&ct=g">
