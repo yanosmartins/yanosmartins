@@ -22,7 +22,7 @@
 <!--🌱 I’m currently learning...-->
 
 <br>
-<h3>🪐 My summaries:</h3>
+<h2>🪐 My summaries:</h2>
 
  <div>
   <a href="https://github.com/yanosmartins">
@@ -48,20 +48,11 @@
   <img align="center" alt="Yan-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Yan-Gcode" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/3270/3270576.png"> <!-- verificar tamanho-->
         
+
+  <img  align="right" alt="Yan's-gif" src="https://media3.giphy.com/media/pi1HV6hj5Cffy/giphy.gif?cid=ecf05e47ke6mcrt94fyb1ny8rosk57xzer16s61zdhkqru2v&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+</div>
   
 
-          
-   
-   <!--<img height="160" width="160" align="right" alt="Yan's-gif" src="https://photos.google.com/search/_m8_Favoritas/photo/AF1QipNQ67cJ2iWdVT2tCQ-en93SCbH8r1IiFSDS-VQr">-->
-</div>
-  <!--
-  
-  <img align="center" alt="Amaral-MySQL" height="30" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="Amaral-MySQL" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
-  <img align="center" alt="Amaral-MySQL" height="30" width="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
-  <img align="center" alt="Amaral-MySQL" height="40" width="40" src="https://img.icons8.com/color/512/wordpress.png">
--->
-  </div>
 
   ##
   
