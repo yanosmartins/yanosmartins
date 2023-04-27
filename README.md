@@ -37,7 +37,7 @@
  ### Languages ​​and Tools
  
 
- <div style="display: inline_block; justify-content: center;"><br>
+ <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Yan-VsCode" name ="Yan-VsCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Yan-Javascript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Yan-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -58,19 +58,15 @@
   
  ### 🔗 Connect with me
  
- <div style="display: inline_block"></div><br>
+ <div style="display: inline_block" align="center"></div><br>
   
  <a href="https://api.whatsapp.com/send?phone=5521969268840" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/yanfleurins/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/yanfleurins/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/yan-oliveira-9b7b271aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:yan.o.s.martins@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  </div>
+ <a href="mailto:yan.o.s.martins@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="https://steamcommunity.com/id/fleurins/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+ </div>
 
-
-<div style="justify-content: center; align-items: center; text-align: center;">
-<a href="https://steamcommunity.com/id/fleurins/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"></a>
-</div>  
 
 
    ![Snake animation](https://github.com/yanosmartins/yanosmartins/blob/output/github-contribution-grid-snake.svg)
