@@ -14,7 +14,7 @@
 <br>
 <h2>🪐 My summaries:</h2>
 
- <div>
+ <div style="display: inline_block" align="center">
   <a href="https://github.com/yanosmartins">
  <img height="160em" aligh="center" src="https://github-readme-stats.vercel.app/api?username=YanOliveira&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="160em" aligh="center" style=border_radius="20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanosmartins&layout=compact&langs_count=7&theme=codeSTACKr"/>
