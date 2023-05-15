@@ -58,4 +58,11 @@ https://media3.giphy.com/media/pi1HV6hj5Cffy/giphy.gif?cid=ecf05e47ke6mcrt94fyb1
 
    ![Snake animation](https://github.com/yanosmartins/yanosmartins/blob/output/github-contribution-grid-snake.svg)
  </div>
+ 
+
+ <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{yanosmartins}/count.svg" /></p> 
+<br>
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D8572B&height=100&section=footer"/>
