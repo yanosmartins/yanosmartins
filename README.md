@@ -16,7 +16,7 @@
 
  <div style="display: inline_block" align="center">
   <a href="https://github.com/yanosmartins">
- <img height="150em" aligh="center" src="https://github-readme-stats.vercel.app/api?username=yanosmartins&show_icons=true&include_all_commits=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+ <img height="150em" aligh="center" src="https://github-readme-stats.vercel.app/api?username=yanosmartins&show_icons=true&include_all_commits=false&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
  <img height="150em" aligh="right" style=border_radius="20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanosmartins&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
        
