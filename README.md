@@ -66,5 +66,6 @@ https://media3.giphy.com/media/pi1HV6hj5Cffy/giphy.gif?cid=ecf05e47ke6mcrt94fyb1
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{yanosmartins}/count.svg" /></p> 
 <br>
 
+[![Spotify](https://spotify-readme.yanosmartins.vercel.app/api/spotify)](https://open.spotify.com/user/Yan) <br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D8572B&height=100&section=footer"/>
