@@ -32,7 +32,7 @@
   <img align="center" alt="Yan-C#" Title="C#" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Yan-C++" Title="C++" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">  
   <img align="center" alt="Yan-SQL" Title="SQL SERVER" height="50" width="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
-  <img align="center" alt="Yan-LARAVEL" Title="LARAVEL" height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" />
+<!--   <img align="center" alt="Yan-LARAVEL" Title="LARAVEL" height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" /> -->
   <img align="center" alt="Yan-PHP" Title="PHP"height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Yan-Gcode" Title="G Code" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/3270/3270576.png">
 <!--   <img align="center" alt="Yan-Unity" Title="Unity" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">    -->
