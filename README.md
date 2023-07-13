@@ -9,7 +9,7 @@
 🚀 Currently working at NTL as a Fullstack-Developer Apprentice.
 
 🧑‍🏫 English Teacher.
-    (I’m currently learning Japanese)
+    (I’m currently learning Japanese and French)
 
 <br>
 <h2>🪐 My summaries:</h2>
@@ -31,12 +31,13 @@
   <img align="center" alt="Yan-CSS" Title="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Yan-C#" Title="C#" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Yan-C++" Title="C++" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">  
-  <img align="center" alt="Yan-SQL" Title=" SQL SERVER" height="50" width="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
-  <!--<img align="center" alt="Yan-SQL" Title="SQL" height="50" width="50" src="https://i.imgur.com/lW0lILU.png">-->
+  <img align="center" alt="Yan-SQL" Title="SQL SERVER" height="50" width="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
+  <img align="center" alt="Yan-LARAVEL" Title="LARAVEL" height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" />
   <img align="center" alt="Yan-PHP" Title="PHP"height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Yan-Gcode" Title="G Code" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/3270/3270576.png">
- <!--  <img align="center" alt="Yan-Unity" Title="Unity" height="50" width="50" src="">   -->                       
-     <img  align="right" alt="Yan's-gif" width="300" height="200" src="https://media.tenor.com/az7zBa8Qz3EAAAAC/frog.gif">
+<!--   <img align="center" alt="Yan-Unity" Title="Unity" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">    -->
+     
+  <img  align="right" alt="Yan's-gif" width="300" height="200" src="https://media.tenor.com/az7zBa8Qz3EAAAAC/frog.gif">
 </div>
 
   <!--<img  align="right" alt="Yan's-gif" width="250" height="200" src="https://media.tenor.com/AHC4lmvMo9gAAAAd/studio-ghibli-frog-in-the-road.gif">
