@@ -40,10 +40,8 @@
 <!--   <img align="center" alt="Yan-LARAVEL" Title="LARAVEL" height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" /> -->
 <!--   <img align="center" alt="Yan-J5" Title="J5 JS-Library" height="50" width="50" src="https://ecoarte.info/ecoarte/wp-content/uploads/2017/01/p5image.png"> -->
   
-     
-  <img  align="right" alt="Yan's-gif" width="300" height="200" src="https://media.tenor.com/az7zBa8Qz3EAAAAC/frog.gif">
 </div>
-
+    
   <!--<img  align="right" alt="Yan's-gif" width="250" height="200" src="https://media.tenor.com/AHC4lmvMo9gAAAAd/studio-ghibli-frog-in-the-road.gif">
 <!-- https://media.tenor.com/Vlr5ep-dRXMAAAAd/ryan-gosling-blade-runner2049.gif
 https://media3.giphy.com/media/pi1HV6hj5Cffy/giphy.gif?cid=ecf05e47ke6mcrt94fyb1ny8rosk57xzer16s61zdhkqru2v&ep=v1_gifs_search&rid=giphy.gif&ct=g
@@ -51,7 +49,11 @@ https://media3.giphy.com/media/pi1HV6hj5Cffy/giphy.gif?cid=ecf05e47ke6mcrt94fyb1
 -->
 
   ##
-  
+   <br>
+     <br>
+     <br>
+ <center> <img  align="right" alt="Yan's-gif" width="300" height="200" src="https://media.tenor.com/az7zBa8Qz3EAAAAC/frog.gif"> </center>
+
  ### 🔗 Connect with me
  
  <div style="display: inline_block" align="center"></div><br>
