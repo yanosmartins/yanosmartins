@@ -26,6 +26,7 @@
 
  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Yan-VsCode"  Title="VsCode"name ="Yan-VsCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+<!--   <img align="center" alt="Yan-Unity" Title="Unity" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">    -->
   <img align="center" alt="Yan-Javascript" Title="Javascript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Yan-HTML" Title="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yan-CSS" Title="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -34,8 +35,8 @@
   <img align="center" alt="Yan-SQL" Title="SQL SERVER" height="50" width="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
 <!--   <img align="center" alt="Yan-LARAVEL" Title="LARAVEL" height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" /> -->
   <img align="center" alt="Yan-PHP" Title="PHP"height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Yan-NX" Title="Siemens NX Graphics" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/en/5/51/Siemens_NX_Logo.png">
   <img align="center" alt="Yan-Gcode" Title="G Code" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/3270/3270576.png">
-<!--   <img align="center" alt="Yan-Unity" Title="Unity" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">    -->
      
   <img  align="right" alt="Yan's-gif" width="300" height="200" src="https://media.tenor.com/az7zBa8Qz3EAAAAC/frog.gif">
 </div>
