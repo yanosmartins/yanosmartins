@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D8572B&height=110&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff652f&height=110&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF652F&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Yan+Oliveira;I'm+20+years+old;Be+Welcome!+)](https://git.io/typing-svg)
 
@@ -16,8 +16,8 @@
 
  <div style="display: inline_block" align="center">
   <a href="https://github.com/yanosmartins">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yanosmartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-    <img height="150em" aligh="right" style=border_radius="20" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yanosmartins&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yanosmartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff652f"/>
+    <img height="150em" aligh="right" style=border_radius="20" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yanosmartins&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff652f"/>
   </a>
 </div>
        
@@ -75,4 +75,4 @@ https://media3.giphy.com/media/pi1HV6hj5Cffy/giphy.gif?cid=ecf05e47ke6mcrt94fyb1
 <br>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D8572B&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff652f&height=100&section=footer"/>
