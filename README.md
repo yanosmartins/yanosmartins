@@ -16,8 +16,8 @@
 
  <div style="display: inline_block" align="center">
   <a href="https://github.com/yanosmartins">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yanosmartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff652f"/>
-    <img height="150em" aligh="right" style=border_radius="20" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yanosmartins&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff652f"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yanosmartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117&title_color=ff652f&border_color=2e343b"/>
+    <img height="150em" aligh="right" style=border_radius="20" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yanosmartins&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=ff652f&border_color=2e343b"/>
   </a>
 </div>
        
