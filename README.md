@@ -9,22 +9,28 @@
 
 🚀 Currently working at NTL as a Fullstack-Developer Apprentice.
 
-🧑‍🏫 English Teacher.
-    (I’m currently learning Japanese and French)
+👨‍🏫 English Teacher.
+
+🧑‍🏫I’m currently learning Spanish.
 
 <br>
-<h2>🪐 My summaries:</h2>
-
+<div align="center">  
+    <h2>🪐 My summaries 🪐</h2>
+</div>
  <div style="display: inline_block" align="center">
   <a href="https://github.com/yanosmartins">
     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yanosmartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117&title_color=ff652f&border_color=2e343b"/>
     <img height="150em" aligh="right" style=border_radius="20" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yanosmartins&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=ff652f&border_color=2e343b&langs_count=6"/>
   </a>
-</div>
-       
-##
+</div>     
+<br>
 
- ### Languages ​​and Tools 
+
+ 
+ <div align="center"> 
+     <h2>🧰🛠️ Languages ​​and Tools 🛠️🧰</h2> 
+ </div>
+ 
 
  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Yan-menorQue" height="30" width="30" src="https://img.icons8.com/?size=512&id=115724&format=png">
