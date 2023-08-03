@@ -35,10 +35,10 @@
  <br>
  
  <div style="display: inline_block" align="center">
-    <img align="center" alt="Yan-menorQue" height="30" width="30" src="https://img.icons8.com/?size=512&id=115724&format=png">
+    <img align="center" alt="Yan-menorQue" height="45" width="45" src="https://img.icons8.com/?size=512&id=115724&format=png">
     <img align="center" alt="Yan-VsCode"  Title="VsCode"name ="Yan-VsCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Yan-NX" Title="Siemens NX Graphics" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/en/5/51/Siemens_NX_Logo.png">
-    <img align="center" alt="Yan-maiorQue" height="30" width="30" src="https://img.icons8.com/?size=512&id=yKEQ9q8jPmQi&format=png">
+    <img align="center" alt="Yan-maiorQue" height="45" width="45" src="https://img.icons8.com/?size=512&id=115759&format=png">
 </div>
 
 <br>
