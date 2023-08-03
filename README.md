@@ -1,18 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff652f&height=110&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF652F&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Yan+Oliveira👋;I'm+20+years+old;Be+Welcome!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF652F&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Yan+Oliveira👋;I'm+20+years+old😁;Be+Welcome!+)](https://git.io/typing-svg)
 
 <br><br>
 
-🖥️ Development Student - Fullstack.
+📚  Development Student - Fullstack.
 
-👨 Graduating in Computer Engineering.  
+💻 Graduating in Computer Engineering.  
 
-🚀 Currently working at NTL as a Fullstack-Developer Apprentice.
+🥼  Currently working at NTL as a Fullstack-Developer Apprentice.
 
-👨‍🏫 English Teacher at CCAA.
+👨‍🏫  English Teacher at CCAA.
 
-🧑‍🏫I’m currently learning Spanish.
+🧠  I’m currently learning Spanish.
 
 <br>
 
