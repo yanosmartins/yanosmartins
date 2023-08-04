@@ -3,17 +3,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF652F&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Yan+Oliveira👋;I'm+20+years+old😁;✨Be+Welcome!+)](https://git.io/typing-svg)
 
 <br><br>
-
-📚  Development Student - Fullstack.
-
+<h3>  
+    
 🥼  Currently working at NTL as a Fullstack-Developer Apprentice.
 
 👨‍🏫  English Teacher at CCAA.
 
 💻 Graduating in Computer Engineering.  
 
-🧠  I’m currently learning Spanish.
+📚  Development Student - Fullstack.
 
+🧠  I’m currently learning Spanish.
+</h3>
 <br>
 
 <h2 align="center">🪐 My summaries 🪐</h2>
