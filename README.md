@@ -5,8 +5,8 @@
 <br><br><br>
     <h3 >
     🥼  Atualmente sou Desenvolvedor Full Stack na NTL. <br>
-    👨‍🏫  Professor de Inglês no CCAA. <br>
     💻  Cursando Engenharia da Computação. <br>
+    👨‍🏫  Professor de Inglês no CCAA. <br>
     🧠  Atualmente estou estudando Espanhol. <br>
     <!-- 📚  Development Student - Fullstack. <br> -->
     </h3>
