@@ -38,7 +38,7 @@
     <img height="40px" width="40px" alt="Icone Html" src="https://skillicons.dev/icons?i=js"/>
     <img height="40px" width="40px" alt="Icone Html" src="https://skillicons.dev/icons?i=css"/>
     <img height="40px" width="40px" alt="Icone Html" src="https://skillicons.dev/icons?i=php"/>
-    <img height="40px" width="40px" alt="Icone Html" src="https://skillicons.dev/icons?i=sql"/>
+<!--     <img height="40px" width="40px" alt="Icone Html" src="https://skillicons.dev/icons?i=sql"/> -->
     <img height="40px" width="40px" alt="Icone Html" src="https://skillicons.dev/icons?i=laravel"/>
     <img height="40px" width="40px" alt="Icone Html" src="https://skillicons.dev/icons?i=jquery"/>
     <img height="40px" width="40px" alt="Icone Html" src="https://skillicons.dev/icons?i=react"/>
@@ -52,7 +52,7 @@
 <!--     <img align="center" alt="Yan-menorQue" height="45" width="45" src="https://img.icons8.com/?size=512&id=115724&format=png"> -->
     <img align="center" alt="Yan-VsCode"  Title="VsCode"name ="Yan-VsCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Yan-SQL" Title="SQL SERVER" height="50" width="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
-    <img align="center" alt="Yan-NX" Title="Siemens NX Graphics" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/en/5/51/Siemens_NX_Logo.png">
+<!--     <img align="center" alt="Yan-NX" Title="Siemens NX Graphics" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/en/5/51/Siemens_NX_Logo.png"> -->
 <!--     <img align="center" alt="Yan-Unity" Title="Unity" height="50" width="50" src="https://img.icons8.com/?size=512&id=y7WGoWNuIWac&format=png"> -->
 <!--     <img align="center" alt="Yan-Unity" Title="Unity" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"> -->
 <!--     <img align="center" alt="Yan-maiorQue" height="45" width="45" src="https://img.icons8.com/?size=512&id=115759&format=png"> -->
