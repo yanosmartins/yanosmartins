@@ -4,10 +4,10 @@
 
 <br><br><br>
     <h3 >
-    🥼  Atualmente sou Desenvolvedor Full Stack na NTL. <br>
-    💻  Cursando Engenharia da Computação. <br>
+    🥼  Sou Desenvolvedor Full Stack na NTL. <br>
+    💻  Cursando Engenharia da Computação e ADS. <br>
     👨‍🏫  Professor de Inglês no CCAA. <br>
-    🧠  Atualmente estou estudando Espanhol. <br>
+    🧠  Atualmente estou estudando React. <br>
     <!-- 📚  Development Student - Fullstack. <br> -->
     </h3>
     
