@@ -40,22 +40,27 @@
 </div>
 
 <br>
+
 <div align="center"> 
     <h2>😃  Sobre mim  🙋‍♂️</h2> 
 </div>
- 
+
  <div align="center">
-     <br>
-    <img  align="center" alt="Yan's-gif" width="500" height="320" border-radius="30" src="https://media0.giphy.com/media/K0JrA2VbkFy2A/giphy.gif?cid=ecf05e47r2pt04hwmevayuxn030anhmx6sr0ovb4tiq54l1f&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-<!--     <img  align="center" alt="Yan's-gif" width="300" height="200" border-radius="30" src="https://media.tenor.com/az7zBa8Qz3EAAAAC/frog.gif"> -->
-<!--     <img  align="center" alt="Yan's-gif" width="250" height="200" src="https://media.tenor.com/AHC4lmvMo9gAAAAd/studio-ghibli-frog-in-the-road.gif"> -->
-     <br><br>
-     <a href="https://api.whatsapp.com/send?phone=5521969268840" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-     <a href="https://www.instagram.com/yanfleurins/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-     <a href="https://www.linkedin.com/in/yan-oliveira-9b7b271aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-     <a href="mailto:yan.o.s.martins@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <p align="left">Sou um desenvolvedor dedicado e proativo, com experiência sólida em projetos de desenvolvimento de sites e aplicativos web. Busco sempre ter uma visão inovadora e ser criativa, com foco principal em otimizar processos e encontrar soluções eficientes. </p>
+    <p align="left">Desta forma acredito estar sempre superando a mim mesmo e me tornando um profissional melhor. </p>
+      <br>
+</div>
+<div align="center">
+    <img src="https://media0.giphy.com/media/K0JrA2VbkFy2A/giphy.gif?cid=ecf05e47r2pt04hwmevayuxn030anhmx6sr0ovb4tiq54l1f&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" height="260" alt="Yan's gif">
+    <br>
+    <a href="https://api.whatsapp.com/send?phone=5521969268840" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+    <a href="https://www.instagram.com/yanfleurins/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/yan-oliveira-9b7b271aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="mailto:yan.o.s.martins@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  </div>
 
+
+ 
 <!--
 #### Atualmente trabalhando em:
 
