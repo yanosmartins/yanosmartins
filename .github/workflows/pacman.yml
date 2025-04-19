@@ -15,7 +15,7 @@ jobs:
       - name: Generate Pac-Man graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          user: ${{ github.yanosmartins }}
+          user: ${{ github.repository_owner }}
           theme: github-dark
           output: "pacman.svg"
 
