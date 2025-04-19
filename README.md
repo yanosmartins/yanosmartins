@@ -59,6 +59,11 @@
     <a href="mailto:yan.o.s.martins@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="pacman.svg">
+  <img alt="Pac-Man Contribution Graph" src="pacman.svg">
+</picture>
+
 
  
 <!--
