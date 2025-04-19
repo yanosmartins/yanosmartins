@@ -1,0 +1,28 @@
+name: Pac-Man Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Generate Pac-Man graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          user: ${{ github.yanosmartins }}
+          theme: github-dark
+          output: "pacman.svg"
+
+      - name: Commit SVG
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add pacman.svg
+          git commit -m "update pacman graph" || echo "nada novo"
+          git push
