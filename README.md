@@ -1,14 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff652f&height=110&section=header"/><br><br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF652F&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Yan😁;👋Seja+bem+vindo!✨;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF652F&size=35&center=true&vCenter=true&width=1000&duration=3000&lines=👋Seja+bem+vindo!✨;👋Be+welcome!✨;👋¡Bienvenido!✨;👋ようこそ!✨;)](https://git.io/typing-svg)
 
 <br><br><br>
     <h3 >
-    🥼  Sou Desenvolvedor Full Stack na NTL. <br>
-    💻  Cursando Engenharia da Computação e ADS. <br>
-    👨‍🏫  Professor de Inglês no CCAA. <br>
-    🧠  Atualmente estou estudando React. <br>
-    <!-- 📚  Development Student - Fullstack. <br> -->
+    🥼  Desenvolvedor Full Stack e Analista. <br>
+    💻  Cursando Engenharia da Computação e Análise e Desenvolvimento de Sistemas. <br>
+    📢  Inglês fluente e Espanhol intermediário. <br>
+    🧠  Atualmente estudando Python e React.js. <br>
     </h3>
     
 <br><br>
@@ -19,7 +18,7 @@
     <br>
     <a href="https://github.com/yanosmartins">
     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yanosmartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff652f&border_color=2e343b"/>
-    <img height="150em" aligh="right" style=border_radius="20" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yanosmartins&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=ff652f&hide_border=true&border_color=2e343b&langs_count=6"/>
+        <img height="150em" aligh="right" style=border_radius="20" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yanosmartins&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=ff652f&hide_border=true&border_color=2e343b&langs_count=6"/>
     </a>
 </div>
 
