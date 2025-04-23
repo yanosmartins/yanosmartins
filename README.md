@@ -32,11 +32,13 @@
     <img height="40px" width="40px" alt="Icone Html" src="https://skillicons.dev/icons?i=js"/>
     <img height="40px" width="40px" alt="Icone Html" src="https://skillicons.dev/icons?i=css"/>
     <img height="40px" width="40px" alt="Icone Html" src="https://skillicons.dev/icons?i=php"/>
-    <img height="40px" width="40px" alt="Icone Html" src="https://skillicons.dev/icons?i=laravel"/>
+    <img height="40px" width="40px" alt="Icone Html" src="https://skillicons.dev/icons?i=py"/>
+    <img height="40px" width="40px" alt="Icone Html" src="https://skillicons.dev/icons?i=sql"/>
+    <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+    <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />      
     <img height="40px" width="40px" alt="Icone Html" src="https://skillicons.dev/icons?i=jquery"/>
     <img height="40px" width="40px" alt="Icone Html" src="https://skillicons.dev/icons?i=react"/>
-    <img height="40px" width="40px" alt="Icone Html" src="https://skillicons.dev/icons?i=sql"/>
-
+    <img height="40px" width="40px" alt="Icone Html" src="https://skillicons.dev/icons?i=laravel"/>
 </div>
 
 <br>
