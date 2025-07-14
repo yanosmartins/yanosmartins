@@ -48,7 +48,7 @@
 </div>
 
  <div align="center">
-    <p align="left">Sou um desenvolvedor dedicado e proativo, com experiência sólida em projetos de desenvolvimento de sites e aplicativos web. Busco sempre ter uma visão inovadora e ser criativa, com foco principal em otimizar processos e encontrar soluções eficientes. </p>
+    <p align="left">Sou um desenvolvedor dedicado e proativo, com experiência sólida em projetos de desenvolvimento de sites e aplicativos web. Busco sempre ter uma visão inovadora e ser criativo, com foco em otimizar processos e encontrar soluções eficientes. </p>
     <p align="left">Desta forma acredito estar sempre superando a mim mesmo e me tornando um profissional melhor. </p>
       <br>
 </div>
