@@ -7,7 +7,7 @@
     🥼  Desenvolvedor Full Stack e Analista. <br>
     💻  Cursando Engenharia da Computação e Análise e Desenvolvimento de Sistemas. <br>
     📢  Inglês fluente e Espanhol intermediário. <br>
-    🧠  Atualmente estudando Python e React.js. <br>
+    🧠  Atualmente estudando Node.js e React.js. <br>
     </h3>
     
 <br><br>
